@@ -1,2 +1,2 @@
-conflict in file1
+conflict in file1 wefvadsf
 

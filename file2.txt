@@ -1,1 +1,1 @@
-Conflicting text in file2
+Conflicting changes from Repo 2 in file2.txt
